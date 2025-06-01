@@ -5,26 +5,8 @@ Sistema de marketplace distribuido para comercio electrónico desarrollado con S
 ## 📋 Descripción y Modelo de Datos (UML)
 Plataforma de e-commerce que permite a empresas gestionar usuarios, productos y órdenes en tiempo real, con procesamiento automático de transacciones y control de inventario dinámico.
 
-![Diagrama UML](https://github.com/Project-final-Products-Market/.github/blob/main/UML%20PROYECTO.PNG)
-```
-┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
-│  API Gateway    │ │   User          │ │   Product       │ │   Order         │
-│  Port: 8087     │◄──►│   Service       │ │   Service       │ │   Service       │
-│ (Enrutamiento)  │ │  Port: 8081     │ │  Port: 8082     │ │  Port: 8083     │
-└─────────────────┘ └─────────────────┘ └─────────────────┘ └─────────────────┘
-         │                   │                   │                   │
-         └───────────────────────┼───────────────────────┼───────────────────────┘
-                                 │
-                ┌─────────────▼─────────────┐
-                │    Eureka Server          │
-                │     Port: 8761            │
-                └─────────────┬─────────────┘
-                              │
-                ┌─────────────▼─────────────┐
-                │       MySQL               │
-                │     Port: 3306            │
-                └───────────────────────────┘
-```
+![Diagrama UML](https://github.com/Project-final-Products-Market/.github/blob/main/UML%20PROYECTO.PNG?raw=true)
+
 
 ## 🛠️ Stack Tecnológico
 
@@ -36,6 +18,9 @@ Plataforma de e-commerce que permite a empresas gestionar usuarios, productos y 
 - JUnit 5 + Mockito (Testing)
 
 ## 🏗️ Arquitectura de Microservicios
+
+![Arquitectura Microservicios](https://github.com/Project-final-Products-Market/.github/blob/main/Arquitectura%20Microservicios.PNG?raw=true)
+
 
 | Servicio | Puerto | Función | Endpoint Principal |
 |----------|--------|---------|-------------------|
