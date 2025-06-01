@@ -169,7 +169,6 @@ Se incluye una colección completa con casos de prueba realistas para validar el
 
 Gracias por revisar este poryecto de microservicios. Si te ha parecido interesante, muestra tu apoyo.
 
-
 ---
 
 🛒 **Sistema desarrollado con ilusión y ganas para revolucionar el comercio electrónico**
