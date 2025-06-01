@@ -159,7 +159,7 @@ Se incluye una colección completa con casos de prueba realistas para validar el
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/jose-manuel-siguero)**
 
-📄 **[Presentación del Proyecto](#)** *(próximamente)*
+📄 **[Presentación del Proyecto](https://www.canva.com/design/DAGpEPU8lFY/Zmesunf2HgDELsEFZYpgtA/edit?utm_content=DAGpEPU8lFY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 ---
 
@@ -167,7 +167,7 @@ Se incluye una colección completa con casos de prueba realistas para validar el
 
 ## ⭐ Agradecimientos
 
-Gracias por revisar este poryecto de microservicios. Si te ha parecido interesante, muestra tu apoyo.
+Gracias por revisar este proyecto de microservicios. Si te ha parecido interesante, muestra tu apoyo.
 
 ---
 
